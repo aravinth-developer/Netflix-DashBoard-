@@ -18,7 +18,7 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Dashboard Demo" width="90%" />
+  <img src="dashboard.png" alt="Dashboard Demo" width="90%" />
 </p>
 
 ## 🎯 Objective

@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing Netflix movies and TV shows by rating, genre, country, type, and release year.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## Objective
 Explore Netflix's content library to understand what type of content it offers, where it comes from, and how it has grown over time.

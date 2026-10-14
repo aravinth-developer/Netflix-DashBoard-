@@ -1,49 +1,59 @@
-# Netflix Data Analysis Dashboard
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=200&section=header&text=Netflix%20Data%20Dashboard&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-An interactive Power BI dashboard analyzing Netflix movies and TV shows by rating, genre, country, type, and release year.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Power+BI+Dashboard;3205+Shows+Analyzed;Movies+%7C+TV+Shows+%7C+Genres+%7C+Countries" />
+</p>
 
-![Dashboard Preview](dashboard.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-## Objective
-Explore Netflix's content library to understand what type of content it offers, where it comes from, and how it has grown over time.
+---
 
-## Dataset
-- Source: Netflix Titles dataset (<Kaggle [link](https://www.kaggle.com/datasets/shiva...)>)
-- Fields: title, type, director, country, date added, release year, rating, duration, genres
+## 📊 Dashboard Preview
 
-## Tools Used
-- Power BI (dashboard and DAX measures)
-- Excel / Power Query (data cleaning)
+<p align="center">
+  <img src="images/dashboard.gif" alt="Dashboard Demo" width="90%" />
+</p>
 
-## Dashboard Features
-- **KPI cards:** Total Shows, Genres, Directors, Start and End Year
-- **Rating by Total Shows:** distribution of maturity ratings
-- **Genre by Total Shows:** most common genres
-- **Total Shows by Country:** map view of content origin
-- **Movies vs TV Shows:** content type split
-- **Shows by Release Year:** trend over time, split by type
+## 🎯 Objective
+Explore Netflix's content library by rating, genre, country, type, and release year.
 
-## Key Insights
-- TV-MA is the most common rating, followed by TV-14.
-- Dramas, Documentaries, and Stand-Up Comedy are among the top genres.
-- Content releases peaked around 2018-2020.
-- Movies make up a larger share than TV shows. <verify with your data>
+## 🛠️ Tools
+Power BI · Excel · Power Query · DAX
 
-## Repository Structure
+## ✨ Features
+- 🔴 KPI cards: shows, genres, directors, year range
+- 🔴 Rating and genre breakdowns
+- 🔴 Country map
+- 🔴 Movies vs TV shows split
+- 🔴 Release year trend
+
+## 💡 Key Insights
+- TV-MA is the most common rating.
+- Dramas, Documentaries, and Stand-Up lead the genres.
+- Releases peaked around 2018-2020.
+
+## 📁 Structure
 ```
 netflix-dashboard/
-├── data/            # Raw and cleaned dataset
-├── images/          # Dashboard screenshots
-├── netflix.pbix     # Power BI file
+├── data/
+├── images/
+├── netflix.pbix
 └── README.md
 ```
 
-## How to Use
-1. Download `netflix.pbix`
-2. Open it in Power BI Desktop
-3. Use the slicers and charts to explore
+## 👨‍💻 Author
+**Akash** · Aspiring Data Analyst
 
-## Author
-Srinivasa Aravinth M
-Aspiring Data Analyst | Excel, SQL, Python, Power BI
-[LinkedIn](linkedin.com/in/srinivasaaravinth) | [GitHub](github.com/aravinth-developer)
+<p align="center">
+  <a href="<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="<your-github>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=100&section=footer" width="100%" />

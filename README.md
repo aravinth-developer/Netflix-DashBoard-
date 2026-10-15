@@ -49,7 +49,7 @@ netflix-dashboard/
 ```
 
 ## 👨‍💻 Author
-**Akash** · Aspiring Data Analyst
+**SRINIVASA ARAVINTH M** · Aspiring Data Analyst
 
 <p align="center">
   <a href="<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
